@@ -14,6 +14,8 @@ Kohort analizi müştəri davranışlarını izləmə, kompaniya effektivliyini 
 * ![Cohort Analysis](CohortMusteriSayi.png)
 Vizuala əsasən yaşıl xanalar müştəri geridönüşlərinin yuxarı, qırmızı xanalar isə kəskin aşağı düşdüyü dönəmləri göstərir. Kompaniya əlaqəli
 slicer verməklə istədiyimiz kompaniyanın effektivliyini və gəlirliliyini bu vizual ilə görə və analiz edə bilərik.
+Aşağıda müştəri geridönüşləri  faizlə vizualı da var.
+* ![Cohort Analysis](geridonusfiaziCOhort.png)
 ### 2. Pareto Analysis (80/20 Rule)
 Pareto analizinin əsas prinspi gələn gəlirlərin əsasını hansı kompaniya/seqment/müştəri təşkil etdiyini görməkdir. Burada kompaniyalara uyğun gəlirlərə görə 
 Pareto diaqramı qurulmuşdur. 
