@@ -17,4 +17,4 @@ slicer verməklə istədiyimiz kompaniyanın effektivliyini və gəlirliliyini b
 ### 2. Pareto Analysis (80/20 Rule)
 Pareto analizinin əsas prinspi gələn gəlirlərin əsasını hansı kompaniya/seqment/müştəri təşkil etdiyini görməkdir. Burada kompaniyalara uyğun gəlirlərə görə 
 Pareto diaqramı qurulmuşdur. 
-(kompaniyalar üzrə pareto analizi.png)
+(paretodiagram.png)
