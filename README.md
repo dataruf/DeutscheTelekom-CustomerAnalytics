@@ -29,4 +29,4 @@ Digər vizualda sırf kompaniyalar və gəlirlərindən ibarət bir cədvəl haz
 Aşağıdakı vizualda isə müştərilərimizin davranışlarına əsasən yekun olaraq xüsusi marketinq kompaniyası təklifi hazırlamışam.
 Belə ki, müştərimizin son istifadə etdiyi tarif onun ümumi istifadə etdiyi tariflər arasında ən böyükdürsə xüsusi bir kompaniya verilməsin yox əgər daha əvvəl yüksək məbləğli bir tarif istifadə edibsə o zaman ona həmən tarif 20% endirimlə təklif olunsun.
 Hansı müştərilərə hansı tariflərin (kampaniyaların) endirimlə təklif olunacağı vizualı aşağıdadır.
-* ![Discount Table](images/discount_screenshot.png)
+* ![Discount Table](marketinqkompaniyasıteklifi)
