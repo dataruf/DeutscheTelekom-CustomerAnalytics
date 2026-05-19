@@ -21,5 +21,5 @@ Pareto diaqramı qurulmuşdur.
 Diaqrama əsasən gəlirlərin təxminən 60% hissəsini 3,9,10,11 və 12 nömrəli kompaniyalardan gəldiyini görürük. Bu bizə imkan verir ki, gəlirli kompaniyaların xüsusiyyətlərini digər zəif gəlirli kompaniyalara tətbiq edərək gücləndirək və ya aşağı gəlirli kompaniyalar yerinə yeni və yüksək gəlir potensiallı kompaniyalar yaradaq.
 ### 3. Campaign Stability Metrics
 Digər vizualda sırf kompaniyalar və gəlirlərindən ibarət bir cədvəl hazırlamışam. Burada yaratdığımız marketing kompaniyalarının stabilliyini yəni aylar üzrə gəlirliliyinin ortalamadan fərqlənməsi dərəcəsini ölçmüşəm.
-* ![Stability Table](images/stability_screenshot.png)
+* ![Stability Table](stabillikkompaniya)
 Ən stabil gəliri olan 3 kompaniya sarı xana ilə fərqləndirilib həmçinin burada şərti formatlama ilə stabilliyi fərqləndirmişəm ( yaşıl (Max) -- qırmızı (min).
